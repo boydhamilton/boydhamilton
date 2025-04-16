@@ -3,6 +3,8 @@
 ## About me
 I'm an engineering student at UBC, Vancouver. I have an interest in embedded systems and electronics and love to learn how things work!
 
+Check out more at (my website)[https://boydhamilton.github.io/]
+
 
 ## Tools and Technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
