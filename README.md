@@ -3,7 +3,7 @@
 ## About me
 I'm a computer engineering student at UBC, Vancouver. I have an interest in embedded systems and electronics and love to learn how things work!
 
-Check out more at [my website](https://boydhamilton.github.io/)
+Check out more at [my website](https://boydhamilton.ca)
 
 Or reach out at one of 
 - boydroberthamilton@gmail.com
